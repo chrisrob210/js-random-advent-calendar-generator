@@ -5,8 +5,8 @@ Generates a table of numbers 1-25. Fully Customizable.
 
 ## Usage
 **Adding To Project**
-1. Add to project and add `<script src="random.js">`
-2. Then inside an element (i.e. `<div>`) with an id place this: `<script>CreateTable()</script>`
+1. Add file to project and add `<script src="random.js">`
+2. Inside an element (i.e. `<div>`) with an id place this: `<script>CreateTable()</script>`
 3. In the javascript file `random.js` rename `document.getElementById('js');` to reflect the id you chose in step 2.
 
 **Customization**
