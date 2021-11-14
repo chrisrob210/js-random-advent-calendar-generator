@@ -9,7 +9,7 @@ Then inside an element (i.e. `<div>`) place this: `<script>CreateTable()</script
 
 ## Example Output
 *original output*
-![Screenshot](https://chrisrobinson.great-site.net/github/images/randomjs.png)
+![Screenshot](https://github.com/chrisrob210/js-random-advent-calendar-generator/blob/main/randomjs.png?raw=true)
 
 *formatted in markdown*
 | col0|col1 |col2 |col3 |col4|
