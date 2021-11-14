@@ -8,7 +8,8 @@ Then inside an element (i.e. `<div>`) place this: `<script>CreateTable()</script
 
 
 ## Example Output
-*original output*
+*original output*  
+
 ![Screenshot](https://github.com/chrisrob210/js-random-advent-calendar-generator/blob/main/randomjs.png?raw=true)
 
 *formatted in markdown*
